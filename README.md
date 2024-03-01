@@ -6,11 +6,11 @@
 
 ####  **联系作者** 
 
-![联系作者](https://s11.ax1x.com/2024/02/26/pFaxKgK.png "联系作者.png")
+![联系作者](https://du-typora.oss-cn-chengdu.aliyuncs.com/bywork/introduce.png "联系作者.png")
 
 **这是作者的微信二维码，如需本项目源代码，可扫码或者VX:wxidq_hvz7sq6l6hu921联系作者。**  
 
-![微信二维码-1](https://s11.ax1x.com/2024/02/26/pFaxU8P.jpg "微信二维码-1.png")
+![微信二维码-1](https://du-typora.oss-cn-chengdu.aliyuncs.com/bywork/orcode.jpg "微信二维码-1.png")
 
 ![主页](https://www.skywalking.pro/download/images/health-platform/health-main-01.png "主页.png")
 
@@ -270,11 +270,11 @@
 
 ####  **联系作者** 
 
-![联系作者](https://s11.ax1x.com/2024/02/26/pFaxKgK.png "联系作者.png")
+![联系作者](https://du-typora.oss-cn-chengdu.aliyuncs.com/bywork/introduce.png "联系作者.png")
 
 **这是作者的微信二维码，如需本项目源代码，可扫码或者VX:wxidq_hvz7sq6l6hu921联系作者。**  
 
-![微信二维码-1](https://s11.ax1x.com/2024/02/26/pFaxU8P.jpg "微信二维码-1.png")
+![微信二维码-1](https://du-typora.oss-cn-chengdu.aliyuncs.com/bywork/orcode.jpg "微信二维码-1.png")
 
 #### 安装教程
 
